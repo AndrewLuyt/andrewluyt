@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+For a curated list of interesting projects please see [my github.io portfolio](https://andrewluyt.github.io/).
+
+Here you will often find incomplete projects or coursework I need to share.
 <!--
 **AndrewLuyt/andrewluyt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
